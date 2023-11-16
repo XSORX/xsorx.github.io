@@ -5,7 +5,7 @@ NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 [DOCUMENTATION]
 ORG_NAME="SORX"
 ORG_URL="https://sorx.co/"
-ORG_LOGO = ""
+ORG_LOGO = "https://github.com/XSORX/xsorx.github.io/blob/main/SORx.png"
 
 [[CURRENCIES]]
 code = "SORX"
@@ -14,4 +14,4 @@ issuer = "GDPTX2Z3HTJKCHTT5JHCL7M5MD7P2HVV7QUDCTBIHW2BYLO3XR4VSRSA"
 is_asset_anchored = false
 display_decimals = 7
 desc="SORX stands as a beacon of innovation within the Stellar network, bringing efficiency, liquidity, and multifaceted utility to the cryptocurrency trading landscape."
-image="https://magiccrypto.github.io/icons/MVOTEicon.png"
+image="https://github.com/XSORX/xsorx.github.io/blob/main/SORx.png"
